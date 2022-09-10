@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "status_det": "OK",
+    "data": {
+        "status": "OK",
+        "auth": "sdgvsyjxnjwgnbqkshmdagtufmtofvsc",
+        "user": {
+            "user_guid": "u0BIpTv0ee7b6337f58eed4eb27dc2f8",
+            "first_name": "mamadcoder",
+            "last_name": "",
+            "phone": "989931512648",
+            "username": "mamadcoder",
+            "avatar_thumbnail": {
+                "file_id": "36464476301999",
+                "mime": "jpg",
+                "dc_id": "218",
+                "access_hash_rec": "4894054088950637959132277822882022060409"
+            },
+            "last_online": 1655535720,
+            "bio": "‌",
+            "is_deleted": false,
+            "is_verified": false,
+            "online_time": {
+                "type": "Exact",
+                "exact_time": 1655535720
+            }
+        },
+        "timestamp": "1655537978"
+    }
+}
