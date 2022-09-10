@@ -51,8 +51,8 @@ async def get_robot(bot , group_guid : str , message_id : str , user_guid : str)
 		except:
 			continue
 
-bot = Rubika("hnljwjxzuzbsfkcluzdwibnvgiqtrnxj")
-group_guid : str = ("g0BVJoi06260895c103168675b325467")
+bot = Rubika("mmgswkpljhvteueovdtulmttmsotssrr")
+group_guid : str = ("g0Be5VF07c80ba9dc22b2e195e235456")
 answered : list = []
 try:
 	open('answered.txt' , 'r').read()
